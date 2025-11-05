@@ -1,0 +1,8 @@
+cocsce-l1d43-25
+rklauk
+Hello, World!
+/acct/rklauk/rklauk/rklauk_lab03
+dirA  dirB  dirC
+fileA
+fileB
+fileC

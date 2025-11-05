@@ -1,0 +1,9 @@
+Ranger Klauk
+Summary: in this lab, I edited the vim configuration to put in some configs such as line numbering, then copied the .vimrc file and renamed it. I had some difficulty with syntax but other than that it was relatively easy.
+
+syntax on
+set ruler
+set autoindent
+set number
+set ignorecase
+color elflord

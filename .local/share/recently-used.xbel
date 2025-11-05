@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///acct/rklauk/username_lab00.txt" added="2025-09-03T14:57:28.171580Z" modified="2025-09-03T14:59:05.188827Z" visited="2025-09-03T14:57:28.171581Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-03T14:59:05.188826Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///acct/rklauk/rklauk_lab00.txt" added="2025-09-03T14:59:17.908222Z" modified="2025-09-03T15:08:43.125566Z" visited="2025-09-03T14:59:17.908222Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-03T15:07:24.010994Z" count="2"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-09-03T15:08:43.125565Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///acct/rklauk/Pictures/Screenshots/Screenshot%20from%202025-09-17%2011-27-53.png" added="2025-09-17T15:27:53.534179Z" modified="2025-09-17T15:28:35.666603Z" visited="2025-09-17T15:27:53.534179Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2025-09-17T15:27:53.534180Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-09-17T15:28:35.666602Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///acct/rklauk/Downloads/A_2023_CSCE_215_Labs%20(9).pdf" added="2025-10-08T15:50:00.931895Z" modified="2025-10-08T15:50:00.931898Z" visited="2025-10-08T15:50:00.931896Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-10-08T15:50:00.931897Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///acct/rklauk/csce215/rklauk_lab_03-5.tar.gz" added="2025-10-08T16:07:54.216477Z" modified="2025-10-08T16:07:54.216480Z" visited="2025-10-08T16:07:54.216478Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-10-08T16:07:54.216478Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///acct/rklauk/Desktop/rklauk_lab04/rklauk_lab04.tar.gz" added="2025-10-22T15:07:31.795228Z" modified="2025-10-22T15:07:31.795231Z" visited="2025-10-22T15:07:31.795229Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-10-22T15:07:31.795229Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
