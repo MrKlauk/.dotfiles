@@ -1,7 +1,0 @@
-# This file is created by ibus-daemon, please do not modify it.
-# This file allows processes on the machine to find the
-# ibus session bus with the below address.
-# If the IBUS_ADDRESS environment variable is set, it will
-# be used rather than this file.
-IBUS_ADDRESS=unix:abstract=/acct/rklauk/.cache/ibus/dbus-JpNAT6g5,guid=762cbc85a5847df00bda0f43690b70a4
-IBUS_DAEMON_PID=878727
